@@ -1,0 +1,36 @@
+{
+    "assets": [
+      {
+        "asset_id": "TL_001_MOD",
+        "type": "streetlight",
+        "coordinates": {"lat": 40.7129, "lon": -74.0061}, 
+        "status": "active",
+        "brightness": 3500
+      },
+      {
+        "asset_id": "CAM_03",
+        "type": "cctv",
+        "coordinates": {"lat": 40.7160, "lon": -74.0110},
+        "status": "active"
+      },
+      {
+        "asset_id": "SENSOR_01_UPD", 
+        "type": "traffic_sensor",
+        "coordinates": {"lat": 40.7135, "lon": -74.0072},
+        "status": "active"
+      },
+      {
+        "asset_id": "TL_004", 
+        "type": "streetlight",
+        "coordinates": {"lat": 40.7148, "lon": -74.0085},
+        "brightness": 3200
+      },
+      {
+        "asset_id": "TL_002_MOD", 
+        "type": "streetlight",
+        "coordinates": {"lat": 40.71302, "lon": -74.00652},
+        "status": "active",
+        "brightness": 2900
+      }
+    ]
+  }

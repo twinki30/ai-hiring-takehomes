@@ -1,0 +1,55 @@
+{
+    "assets": [
+      {
+        "asset_id": "TL_001",
+        "type": "streetlight",
+        "coordinates": {"lat": 40.7128, "lon": -74.0060},
+        "status": "active",
+        "last_maintained": "2023-09-15",
+        "brightness": 3000
+      },
+      {
+        "asset_id": "SENSOR_01",
+        "type": "traffic_sensor",
+        "coordinates": {"lat": 40.7135, "lon": -74.0072},
+        "status": "inactive",
+        "last_maintained": "2023-10-01"
+      },
+      {
+        "asset_id": "CAM_01",
+        "type": "cctv",
+        "coordinates": {"lat": 40.7140, "lon": -74.0080},
+        "status": "active",
+        "last_maintained": "2023-08-20"
+      },
+      {
+        "asset_id": "TL_002",
+        "type": "streetlight",
+        "coordinates": {"lat": 40.7130, "lon": -74.0065},
+        "status": "active",
+        "last_maintained": "2023-09-20",
+        "brightness": 2800
+      },
+      {
+        "asset_id": "SENSOR_02",
+        "type": "traffic_sensor",
+        "coordinates": {"lat": 40.7122, "lon": -74.0058},
+        "status": "active",
+        "last_maintained": "2023-10-05"
+      },
+      {
+        "asset_id": "TL_003",
+        "type": "streetlight",
+        "coordinates": {"lat": 40.7145, "lon": -74.0090},
+        "status": "inactive",
+        "last_maintained": "2023-07-30",
+        "brightness": 0
+      },
+      {
+        "asset_id": "CAM_02",
+        "type": "cctv",
+        "coordinates": {"lat": 40.7150, "lon": -74.0100},
+        "status": "active",
+        "last_maintained": "2023-09-10"
+      } ]
+  }
