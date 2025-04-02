@@ -1,0 +1,23 @@
+# Core dependencies
+boto3==1.34.79
+redis==5.0.3
+pybloom-live==4.0.0
+
+# For local testing and mocking AWS services
+moto[server]==4.2.13
+pytest==8.1.1
+
+# For type hints and development
+types-redis==4.6.0.20240311
+mypy==1.9.0
+
+# CSV data generation
+faker==24.3.0
+
+# Optional: For performance tracking and memory profiling
+tracemalloc  # built-in, no need to install
+
+# Note:
+# boto3 includes botocore as a sub-dependency.
+# redis-py handles ElastiCache/Redis connection.
+# moto supports mocking for S3, SQS, DynamoDB etc.
