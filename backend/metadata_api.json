@@ -1,0 +1,14 @@
+{
+  "VH_00001": {
+    "max_speed": 100,
+    "service_region": "NYC",
+    "depot_lat": 40.7128,
+    "depot_lon": -74.0060
+  },
+  "VH_00002": {
+    "max_speed": 90,
+    "service_region": "LA",
+    "depot_lat": 34.0522,
+    "depot_lon": -118.2437
+  }
+}
